@@ -1,0 +1,14 @@
+{
+  "name": "varia",
+  "version": "0.0.1",
+  "description": "Varia",
+  "main": "index",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Galder Zamarreño",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
